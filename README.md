@@ -1,2 +1,2 @@
-# Chainlink Hackthon
+# Chainlink Hacktahon
 - Initial draft for next chance.
