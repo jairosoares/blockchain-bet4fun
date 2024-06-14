@@ -1,1 +1,2 @@
-# blockchain-bet4fun
+# Chainlink Hackthon
+- Initial draft for next chance.
